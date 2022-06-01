@@ -1,0 +1,54 @@
+
+.container{
+    width: 50%;
+    height: 70%;
+    color:  #d4d8e8 ;
+    padding: 1%;
+    display: inline-block;
+    background: pink;
+}
+.header{
+    background: #93d0c4 ;
+    text-align: center;
+    
+}
+
+.principal{
+   
+    background: pink;
+    display: flex;
+    gap: 1%;
+}
+.aside{
+    text-align: center;
+    background: #29b4b4 ;
+    width: 30%;
+    
+}
+
+.article{
+    background:  #fc989a ;
+    width: 70%;
+    text-align: center;
+    
+}
+ul{
+    background: rgb106, 18, 32;
+    display: inline-flex;
+    width: 70%;
+    height: 40%;
+    padding: 15%;
+    gap: 2%;
+}
+.div-cen{
+    background:  #9fa6a5;
+    width: 100%;
+    
+}
+
+.footer{
+    
+    text-align: center;
+    background:#93d0c4 ;
+    
+}
